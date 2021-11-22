@@ -10,7 +10,7 @@ Opções de sites para desenvolver:
 
 ---
 
-Vídeos sobre GitHub
+## Vídeos sobre GitHub
 
 1. [O que é Git e GitHub](https://youtu.be/GDGMf2bnHlE)
 2. [Instalando o Git e GitHub no Windows](https://youtu.be/NgWExh3bswg)
@@ -18,3 +18,8 @@ Vídeos sobre GitHub
 4. [Criando repositório Git](https://youtu.be/P0Hvrf8T3zo)
 5. [Gerenciando seus repositórios locais e remotos](https://youtu.be/Sbcu_GuySjo)
 6. [Como hospedar suas páginas no GitHub Pages](https://youtu.be/_jI3782DGDc)
+
+---
+
+## Entrega
+O seu site deverá ser entregue, hospedado no GitHub Pages(Igual a essa página e os sites modelo) até o dia 02/12. O link do site deverá ser enviado no meu WhatsApp ou no meu email.
